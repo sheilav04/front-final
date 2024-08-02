@@ -1,0 +1,26 @@
+
+nav {
+    /* border: 1px black solid; */
+    background: skyblue;
+    height: 40px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  
+  .a-nav {
+    font-family: cursive;
+    text-decoration: none;
+    align-items: center;
+    color: brown;
+  }
+  
+  a {
+    cursor: pointer;
+  }
+  
+  .label-review {
+    margin-top: 5px;
+  }
+  
